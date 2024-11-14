@@ -1,2 +1,5 @@
 Contenido de archivo
 azul francia
+//Me parece que estamos trabajando en el mismo archivo.
+//Me parece que no entiendo nada..
+//S ss
